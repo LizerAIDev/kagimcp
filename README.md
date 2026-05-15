@@ -1,8 +1,6 @@
 # Kagi MCP server
 
-<a href="https://glama.ai/mcp/servers/xabrrs4bka">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/xabrrs4bka/badge" alt="Kagi Server MCP server" />
-</a>
+The following instructions apply to the v0 API. For v1, see https://github.com/kagisearch/kagimcp/tree/rehan/v1-api
 
 ## Setup Intructions
 > Before anything, unless you are just using non-search tools, ensure you have access to the search API. It is currently in closed beta and available upon request. Please reach out to support@kagi.com for an invite.
